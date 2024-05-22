@@ -4,9 +4,12 @@ PROBLEM STATEMENT:
 Spark Funds, an asset management company wants to understand the global trends in investments in a few companies. The goal is to analyze and identify the most suitable companies for investment opportunities.
 
 The following conditions were met during the analysis:
-	1. The suitable funding types (like seed, angel, venture, and private equity) that fall under the range of 5- 15M USD.
-	2. The English-speaking countries that had received the most investments.
-	3. The primary sectors or industries that draw the largest investment sums 
+
+1. The suitable funding types (like seed, angel, venture, and private equity) that fall under the range of 5- 15M USD.
+	
+2. The English-speaking countries that had received the most investments.
+	
+3. The primary sectors or industries that draw the largest investment sums 
 
 IMPORTING DATA:
 
