@@ -1,5 +1,5 @@
 # Sparkfunds_investments
-Problem Statement:
+PROBLEM STATEMENT:
 
 Spark Funds, an asset management company wants to understand the global trends in investments in a few companies. The goal is to analyze and identify the most suitable companies for investment opportunities.
 
@@ -8,7 +8,7 @@ The following conditions were met during the analysis:
 	2. The English-speaking countries that had received the most investments.
 	3. The primary sectors or industries that draw the largest investment sums 
 
-Importing Data:
+IMPORTING DATA:
 
 The following data was imported:
 
@@ -18,7 +18,7 @@ The following data was imported:
 
 3. Mapping Data: Match the companies into different sub-sectors.
 
-Data Filtering:
+DATA FILTERING:
 
 1. Fund Filtering: The types of investments are filtered based on a criterion of funds ranging from 5 to 15 million USD.
 
